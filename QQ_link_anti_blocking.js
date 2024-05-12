@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         腾讯QQ链接反屏蔽
+// @namespace    https://github.com/bitchAltila/tampermonkey-scripts
 // @version      0.1
 // @description  当从QQ打开的链接被屏蔽时，自动跳转至原地址
 // @author       You
